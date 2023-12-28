@@ -8,3 +8,8 @@ AQUI ALGUMAS IMAGENS DO JOGO:
 ![Captura de tela 2023-12-27 180328](https://github.com/lui662/GamingMario/assets/54670505/e67c64ef-35c3-41ca-a80f-83d7af86d27e)
 ![Captura de tela 2023-12-27 180316](https://github.com/lui662/GamingMario/assets/54670505/49ed2258-8ba3-4cba-874a-175ed962b409)
 ![Captura de tela 2023-12-27 180302](https://github.com/lui662/GamingMario/assets/54670505/bc1723e6-1b8c-4d38-a2a6-c83f1b93e09c)
+
+
+COMO REFERENCIA DEIXO O LINK DO CANAL QUE ME AJUDOU MUITO A APRENDER COMO USA O PACOTE PYGAME
+
+LINK: https://www.youtube.com/@joao-tinti
