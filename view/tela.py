@@ -51,6 +51,7 @@ def reiniciar_jogo():
     cano.pontuacao = 0
     jogo_mario.rect.topleft = 0, 400
     jogo_mario.image = jogo_mario.mario[0]
+    cano.velocidade = 10 
 
 
 def exibe_mensagem(mensagem, tamanho_fonte, cor_texto, cor_fundo, posicao, tm1, tm2):
