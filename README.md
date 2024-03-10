@@ -10,6 +10,3 @@ AQUI ALGUMAS IMAGENS DO JOGO:
 ![Captura de tela 2023-12-27 180302](https://github.com/lui662/GamingMario/assets/54670505/bc1723e6-1b8c-4d38-a2a6-c83f1b93e09c)
 
 
-COMO REFERENCIA DEIXO O LINK DO CANAL QUE ME AJUDOU MUITO A APRENDER COMO USA A BIBLIOTECA PYGAME
-
-LINK: https://www.youtube.com/@joao-tinti
